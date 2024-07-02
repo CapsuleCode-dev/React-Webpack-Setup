@@ -1,4 +1,4 @@
-This is a [webpack](https://webpack.js.org/) project with React.
+This is a [React Webpack Setup ](https://webpack.js.org/) project with React.
 
 ## Reqiurements 
 - [nodejs](https://nodejs.org/en) v20.15.0
